@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <chartType>A</chartType>
+    <loggerFactory>com.example.FileLoggerFactory</loggerFactory>
+    <actorBuilder>com.example.AngelBuilder</actorBuilder>
+    <operationAdapter>com.example.OperationAdapter</operationAdapter>
+    <imageType>com.example.JPGImage</imageType>
+    <systemOperation>com.example.WindowsImp</systemOperation>
+</config>
